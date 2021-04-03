@@ -72,7 +72,7 @@ struct LogOutButtonView: View {
                 .foregroundColor(.white)
         }
         .frame(width: 200, height: 60)
-        .background(Color.green)
+        .background(Color.blue)
         .cornerRadius(20)
         .overlay(
             RoundedRectangle(cornerRadius: 20)
